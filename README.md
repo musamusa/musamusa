@@ -41,7 +41,7 @@
 
 
 <a href="https://github.com/musamusa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musamusa&theme=dark&&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=musamusa&theme=dark&&count_private=true&hide=php" />
 </a>
 <a href="https://github.com/musamusa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musamusa&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Musa's github stats"/>
