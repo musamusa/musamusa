@@ -44,5 +44,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musamusa&theme=dark" />
 </a>
 <a href="https://github.com/musamusa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=musamusa&show_icons=true&theme=dracula&line_height=27" alt="Musa's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=musamusa&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Musa's github stats"/>
 </a>
