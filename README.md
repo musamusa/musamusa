@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on A lot of Private Repos.
 - 🌱 I’m currently learning new Technologies.
 - 💬 Ask me about IoT, Software Best Practice and anything tech.
-- ⚡ Fun fact: I love refactoring and code optimization, when not coding you can catch me watching comedies youtube.
+- ⚡ Fun fact: I love refactoring and code optimization, when not coding you can catch me watching comedies on youtube.
 - 📫 How to reach me: [email](musa@musamusa.com) 
 
 **Languages and Tools:**  
