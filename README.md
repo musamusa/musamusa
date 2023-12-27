@@ -4,7 +4,7 @@
 ## Hello, I am [Musa!]()<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <a href="https://www.linkedin.com/in/musamusa/">
-  <img align="left" alt="Musa's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Musa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/musamusa">
   <img align="left" alt="Musa's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -19,16 +19,16 @@
 
 - 🔭 I’m currently working in a lot of Private Repos.
 - 🌱 I’m currently learning new Technologies.
-- 💬 Ask me about IoT, Software Best Practice and anything Electronics.
-- ⚡ Fun fact: I love refactoring and doing code optimization. When not coding you can catch me watching comedy on youtube.
-- 📫 How to reach me: [email](musa@musamusa.com) 
+- 💬 Ask me about IoT, Software Best Practices, and anything Electronics.
+- ⚡ Fun fact: I love refactoring and doing code optimization. When not coding you can catch me watching comedy on YouTube.
+- 📫 How to reach me: [email](mailto:musa@musamusa.com) 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor"/></code>
 <code><img height="20" src="https://icongr.am/devicon/c-original.svg"></code>
 <code><img height="20" src="https://icongr.am/devicon/linux-original.svg"></code>
-<code><img height="20" src="https://icongr.am/devicon/cplusplus-original.svg"></code>
 <code><img height="20" src="https://icongr.am/devicon/mysql-original-wordmark.svg"></code>
 <code><img height="20" src="https://icongr.am/devicon/git-original-wordmark.svg"></code>
 <code><img height="20" src="https://icongr.am/devicon/cplusplus-original.svg"></code>
